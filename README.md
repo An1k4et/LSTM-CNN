@@ -12,7 +12,7 @@ This project aims to leverage deep learning techniques to analyze historical sto
 - Implements LSTM and CNN architectures for predictive modeling.
 - Includes feature engineering and selection techniques to capture market trends effectively.
 - Predicts the difference between closing and opening prices of stocks.
-![Stock Market Prediction]([https://github.com/An1k4et/LSTM-CNN/main/img.pn](https://github.com/An1k4et/LSTM-CNN/blob/main/img.jpg?raw=true)g)
+![Stock Market Prediction](https://github.com/An1k4et/LSTM-CNN/blob/main/img.jpg?raw=true)
 ## Installation
 
 To run this project locally, follow these steps:
